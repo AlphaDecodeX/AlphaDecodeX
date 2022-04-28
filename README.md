@@ -30,7 +30,11 @@
 <a > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
 <a  > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/scikit.svg'> </a>
 <a  > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
-<a  > <img width ='80px' height = "50px" src ='https://cdn2.unrealengine.com/ue-logo-1400x788-1400x788-8f185e1e3635.jpg'> </a>
+
+<a  > <img width ='50px' src ='https://cdn.freebiesupply.com/logos/thumbs/2x/nodejs-1-logo.png'> </a>    
+<a  > <img width ='32px' src ='https://img.icons8.com/color/480/tensorflow.png'> </a>
+<a  > <img width ='32px' src ='https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png'> </a>
+
 <a  > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
 <a  > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
 <a  > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>

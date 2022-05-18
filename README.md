@@ -4,7 +4,7 @@
 
 
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=alphadecodex)
-[![Github](https://img.shields.io/github/followers/Aditya664?label=Follow&style=social)](https://github.com/alphadecodex)
+[![Github](https://img.shields.io/github/followers/AlphaDecodeX?label=Follow&style=social)](https://github.com/alphadecodex)
 
 <div size='20px'> Hi! My name is Lovepreet Singh. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>

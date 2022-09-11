@@ -15,8 +15,6 @@
 
 - 🔭 I’m currently learning Advaced Software Development and Design alongwith Competitive Programming.
   
-- 🌱 I’m currently learning AngularJS, AWS and Some ML Stuff.
-  
 - 👯 I like to collaborate with different People.
   
 - 💬 Ask me about SQL, Python, React, Angular, C++, Solidity & Smart Contracts, Operating Systems, Computer Networks, OOPS, System Design, DBMS.

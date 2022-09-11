@@ -13,13 +13,13 @@
 
 <img width="30%" align="right" alt="Github" src="https://user-images.githubusercontent.com/56597655/167241072-155428db-d1f7-4424-96e0-2ac3396f1b4b.png" />
 
-- 🔭 I’m currently working as SDE at Trading Technologies.
+- 🔭 I’m currently learning Advaced Software Development and Design alongwith Competitive Programming.
   
 - 🌱 I’m currently learning AngularJS, AWS and Some ML Stuff.
   
 - 👯 I like to collaborate with different People.
   
-- 💬 Ask me about Sql, Python, Data Science, Trading and Investments, Software Development
+- 💬 Ask me about SQL, Python, React, Angular, C++, Solidity & Smart Contracts, Operating Systems, Computer Networks, OOPS, System Design, DBMS.
   
 - ⚡ Fun fact: All People are biased in some way
 

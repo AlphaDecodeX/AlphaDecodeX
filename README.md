@@ -17,7 +17,7 @@
   
 - 👯 I like to collaborate with different People.
   
-- 💬 Ask me about SQL, Python, React, Angular, C++, Solidity & Smart Contracts, Operating Systems, Computer Networks, OOPS, System Design, DBMS.
+- 💬 Ask me about SQL, Python, React, Angular, C++, Operating Systems, Computer Networks, OOPS, System Design, DBMS, LLD
   
 - ⚡ Fun fact: All People are biased in some way
 

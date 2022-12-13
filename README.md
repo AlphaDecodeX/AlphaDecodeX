@@ -57,5 +57,5 @@
 
 <br>
 
-
+<a href="https://app.daily.dev/lpsk5713"><img src="https://api.daily.dev/devcards/e455c03d5dea4e12bc40179e7f4430f1.png?r=1bs" width="400" alt="Lovepreet Singh's Dev Card"/></a>
 -----

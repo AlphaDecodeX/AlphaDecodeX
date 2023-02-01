@@ -13,13 +13,15 @@
 
 <img width="30%" align="right" alt="Github" src="https://user-images.githubusercontent.com/56597655/167241072-155428db-d1f7-4424-96e0-2ac3396f1b4b.png" />
 
-- 🔭 I’m currently learning Advaced Software Development and Design alongwith Competitive Programming.
+- 🚀 Backend Engineer @CRED
   
 - 👯 I like to collaborate with different People.
   
 - 💬 Ask me about SQL, Python, React, Angular, C++, Operating Systems, Computer Networks, OOPS, System Design, DBMS, LLD
   
 - ⚡ Fun fact: All People are biased in some way
+  
+- 🥳 70K <a href='https://www.dev.to/lovepreetsingh'>Blog</a> Visits
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px> </h2>
   <div style = "color: red;">
@@ -53,6 +55,4 @@
 ![Lovepreet's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlphaDecodeX&theme=tokyonight)<br>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
-
-<a href="https://app.daily.dev/lpsk5713"><img src="https://api.daily.dev/devcards/e455c03d5dea4e12bc40179e7f4430f1.png?r=1bs" width="400" alt="Lovepreet Singh's Dev Card"/></a>
 -----

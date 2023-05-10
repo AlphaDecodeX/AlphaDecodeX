@@ -21,7 +21,7 @@
   
 - ⚡ Fun fact: All People are biased in some way
   
-- 🥳 70K <a href='https://www.dev.to/lovepreetsingh'>Blog</a> Visits
+- 🥳 100K <a href='https://www.dev.to/lovepreetsingh'>Blog</a> Visits
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px> </h2>
   <div style = "color: red;">

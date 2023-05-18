@@ -1,58 +1,50 @@
-<h1> Hello < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
-<p align='center'>
+<h1 align="center">Hello, Developers! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+
+<div align="center">
+  <h2>About Me</h2>
+  <h4>Hi! My name is Lovepreet Singh. Thank you for taking the time to view my GitHub profile! 😄</h4>
+  <h4>I'm a Backend Engineer at CRED and I enjoy collaborating with different people. Feel free to ask me about SQL, Python, React, Angular, C++, Operating Systems, Computer Networks, OOPS, System Design, DBMS, LLD, or any related topics. Let's connect!</h4>
+  <h4>Fun fact: Everyone is biased in some way. 🥳</h4>
+  <h4>Check out my <a href="https://www.dev.to/lovepreetsingh">blog</a> for more content! (100k Blog visits 🚀)</h4>
+</div>
+
+<div align="center">
+  <h2>Skills</h2>
+  <p style="color: red;">
+    <a><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg" alt="Python"></a>
+    <a><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg" alt="React"></a>
+    <a><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg" alt="JavaScript"></a>
+    <a><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/scikit.svg" alt="Scikit-Learn"></a>
+    <a><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg" alt="C"></a>
+    <a><img width="50px" src="https://cdn.freebiesupply.com/logos/thumbs/2x/nodejs-1-logo.png" alt="Node.js"></a>
+    <a><img width="32px" src="https://img.icons8.com/color/480/tensorflow.png" alt="TensorFlow"></a>
+    <a><img width="32px" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL"></a>
+    <a><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg" alt="C++"></a>
+    <a><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg" alt="CSS"></a>
+    <a><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg" alt="HTML"></a>
+    <a><img width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" alt="PHP"></a>
+    <a><img width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ethereum-icon-purple.svg/1200px-Ethereum-icon-purple.svg.png" alt="Ethereum"></a>
+  </p>
+</div>
+
+<div align="center">
+  <h2>Connect with Me</h2>
+  <a href="https://www.linkedin.com/in/lovepreet-singh-a18a19191/"><img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" alt="LinkedIn"></a>
+  <a href="https://github.com/AlphaDecodeX"><img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" alt="GitHub"></a>
+</div>
+
+<br><br><br>
+
+<p align="center">
+  <a href="https://stats.quine.sh/AlphaDecodeX/languages-over-time?theme=dark"><img src="https://stats.quine.sh/AlphaDecodeX/languages-over-time?theme=dark" alt="Languages Over Time"></a>
 </p>
 
+<p align="center">
+  <a href="https://stats.quine.sh/AlphaDecodeX/topics-over-time?theme=dark"><img src="https://stats.quine.sh/AlphaDecodeX/topics-over-time?theme=dark" alt="Topics Over Time"></a>
+</p>
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=alphadecodex)
-[![Github](https://img.shields.io/github/followers/AlphaDecodeX?label=Follow&style=social)](https://github.com/alphadecodex)
+<p align="center">
+  <a href="https://stats.quine.sh/AlphaDecodeX/github?theme=dark"><img src="https://stats.quine.sh/AlphaDecodeX/github?theme=dark" alt="Stats"></a>
+</p>
 
-<div size='20px'> Hi! My name is Lovepreet Singh. Thank You for taking the time to view my GitHub Profile :smile: 
-</div>
-
-<h2> About Me
-
-<img width="30%" align="right" alt="Github" src="https://user-images.githubusercontent.com/56597655/167241072-155428db-d1f7-4424-96e0-2ac3396f1b4b.png" />
-
-- 🚀 Backend Engineer @CRED
-  
-- 👯 I like to collaborate with different People.
-  
-- 💬 Ask me about SQL, Python, React, Angular, C++, Operating Systems, Computer Networks, OOPS, System Design, DBMS, LLD
-  
-- ⚡ Fun fact: All People are biased in some way
-  
-- 🥳 100K <a href='https://www.dev.to/lovepreetsingh'>Blog</a> Visits
-
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px> </h2>
-  <div style = "color: red;">
-<a> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>&nbsp;
-<a > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>&nbsp;
-<a > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>&nbsp;
-<a  > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/scikit.svg'> </a>&nbsp;
-<a  > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>&nbsp;
-<a  > <img width ='50px' src ='https://cdn.freebiesupply.com/logos/thumbs/2x/nodejs-1-logo.png'> </a>&nbsp;    
-<a  > <img width ='32px' src ='https://img.icons8.com/color/480/tensorflow.png'> </a>&nbsp;
-<a  > <img width ='32px' src ='https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png'> </a>&nbsp;
-<a  > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>&nbsp;
-<a  > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>&nbsp;
-<a  > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>&nbsp;
-<a  > <img width ='32px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png'> </a>&nbsp;
-<a  > <img width ='32px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ethereum-icon-purple.svg/1200px-Ethereum-icon-purple.svg.png'> </a>
-</div>
-
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://www.linkedin.com/in/lovepreet-singh-a18a19191/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<!-- <a href = 'https://www.twitter.com/NoobCoder07'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a>  -->
-<!-- <a href = 'https://medium.com/@adityadeshmukh7350'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a>  -->
-<!-- <a href = 'http://aditya664.me/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a>  -->
-&nbsp;<a href = 'https://www.github.com/AlphaDecodeX'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
-  
-<br>
-<br>
-  <br>
-  
-
-![Lovepreet's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlphaDecodeX&theme=tokyonight)<br>
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 -----

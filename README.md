@@ -3,7 +3,7 @@
 <div align="center">
   <h2>About Me</h2>
   <h4>Hi! My name is Lovepreet Singh. Thank you for taking the time to view my GitHub profile! 😄</h4>
-  <h4>I'm a Backend Engineer at CRED and I enjoy collaborating with different people. Feel free to ask me about SQL, Python, React, Angular, C++, Operating Systems, Computer Networks, OOPS, System Design, DBMS, LLD, or any related topics. Let's connect!</h4>
+  <h4>I'm a Backend Engineer at CRED and I enjoy collaborating with different people. Feel free to ask me about SQL, Python, Java, React, Angular, C++, Operating Systems, Computer Networks, OOPS, System Design, DBMS, LLD, or any related topics. Let's connect!</h4>
   <h4>Fun fact: Everyone is biased in some way. 🥳</h4>
   <h4>Check out my <a href="https://www.dev.to/lovepreetsingh">blog</a> for more content! (100k Blog visits 🚀)</h4>
 </div>

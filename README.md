@@ -15,7 +15,7 @@
 
 <div align="center">
   <h2>Connect with Me</h2>
-  <a href="https://www.linkedin.com/in/lovepreet-singh-a18a19191/"><img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/lovepreet-singh-a18a19191/"><img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" alt="LinkedIn"></a>&nbsp;&nbsp;
   <a href="https://github.com/AlphaDecodeX"><img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" alt="GitHub"></a>
 </div>
 

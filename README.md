@@ -19,18 +19,7 @@
   <a href="https://github.com/AlphaDecodeX"><img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" alt="GitHub"></a>
 </div>
 
-<br><br><br>
-
-<p align="center">
-  <a href="https://stats.quine.sh/AlphaDecodeX/languages-over-time?theme=dark"><img src="https://stats.quine.sh/AlphaDecodeX/languages-over-time?theme=dark" alt="Languages Over Time"></a>
-</p>
-
-<p align="center">
-  <a href="https://stats.quine.sh/AlphaDecodeX/topics-over-time?theme=dark"><img src="https://stats.quine.sh/AlphaDecodeX/topics-over-time?theme=dark" alt="Topics Over Time"></a>
-</p>
-
-<p align="center">
-  <a href="https://stats.quine.sh/AlphaDecodeX/github?theme=dark"><img src="https://stats.quine.sh/AlphaDecodeX/github?theme=dark" alt="Stats"></a>
-</p>
-
------
+<br>
+<div align="center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alphadecodex&" alt="alphadecodex" /></p>
+</div>
